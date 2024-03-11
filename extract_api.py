@@ -7,7 +7,7 @@ from google.auth.exceptions import DefaultCredentialsError
 
 
 # =============================================================================
-# Configurando variáveis do bigquery e parêmetros necessários
+# Configurando variáveis do bigquery e parêmetros necessários 
 # =============================================================================
 credentials_path = 'dashboard-filmes-aec2f958f9d4.json'
 project_id = 'dashboard-filmes'
